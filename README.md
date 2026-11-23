@@ -15,6 +15,8 @@ I am an Application Engineer transitioning towards Reporting & Analytics and HR 
 ### 3. Recruitment Analytics
 ![Recruitment Analytics](Project%203%20-%20Recruitment%20Analytics/Screenshots/Recruitment_Analytics_Dashboard.png)
 
+**Dataset Disclaimer:** The datasets used in these Power BI projects are synthetic datasets generated with the assistance of AI tools for learning and portfolio demonstration purposes. They do not represent actual company data or real business transactions.
+
 ## Projects
 
 ### 1. HR Workforce Analytics
