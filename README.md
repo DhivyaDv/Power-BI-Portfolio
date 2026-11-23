@@ -4,6 +4,17 @@ Welcome to my Power BI portfolio!
 
 I am an Application Engineer transitioning towards Reporting & Analytics and HR Analytics. This repository showcases my self-directed Power BI projects, developed to strengthen my skills in data analysis, dashboard development, KPI reporting and data visualization.
 
+## Dashboard Previews
+
+### 1. HR Workforce Analytics
+![HR Workforce Analytics](Project%201%20-%20Workforce%20Analytics/Screenshots/Workforce_Analytics_Dashboard.png)
+
+### 2. HR Attrition Analytics
+![HR Attrition Analytics](Project%202%20-%20Attrition%20Analytics/Screenshots/HR_Attrition_Analytics_Dashboard.png)
+
+### 3. Recruitment Analytics
+![Recruitment Analytics](Project%203%20-%20Recruitment%20Analytics/Screenshots/Recruitment_Analytics_Dashboard.png)
+
 ## Projects
 
 ### 1. HR Workforce Analytics
